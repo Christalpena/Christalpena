@@ -16,7 +16,7 @@
       <li>🎮 League of Legends</li>
       <li>🤔 What do you think about life?</li>
       <li>💬 Always thinking</li>
-      <li>⚡ Fun fact: Just do it</li>
+      <li>⚡ Fun fact: No one does anything for free</li>
     </ul>
   </td>
   <td style="vertical-align: top;">
@@ -40,7 +40,7 @@
          </td>
          <td width="50%">
              <div>
-             <h3 align="center"><a href="https://github.com/Christalpena/Adopt-A-Pet">Adopt a pet</a></h3>
+             <h3 align="center"><a href="https://github.com/Christalpena/Adopt-A-Pet">ADOPT A PET</a></h3>
              <img height="250px" src="https://user-images.githubusercontent.com/107286072/217701592-064977b1-cab0-446e-a445-d877707f2010.png" alt="christalpena" >
              <p align="center">This is a web page created with python and Djaango, there you will be aable to look for many race of dogs and cats and if you find one that likes you you will can adopt she or he throught a form.
              </div>  
