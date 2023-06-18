@@ -1,16 +1,23 @@
-### Hi there 👋 i'm Christal
+
+    
+![Github (1)](https://github.com/Christalpena/Christalpena/assets/107286072/74413272-199b-416f-b2a3-043edd3224b0)
+
 
 <!--
 **Christalpena/Christalpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## About me
+  
+- 🔭 Web developer
+- 🌱 I’m currently learning React
+- 👨‍👩‍👧‍👧 Family firts
+- 🎮 League of Legends
+- 🤔 What do you think about the life?
+- 💬 always thinking
+- ⚡ Fun fact: Just do it 
+
+## It took time, but i did it
+
