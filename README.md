@@ -102,7 +102,7 @@
 </div>
 
 ## ♥️ Github analysis
-<img src="https://github-readme-stats.vercel.app/api?username=christalpena&show_icons=true&locale=en" alt="christalpena" />
+<img src="https://github-readme-stats.vercel.app/api?username=Christalpena&show_icons=true&theme=radical" alt="christalpena" />
 
 
 
