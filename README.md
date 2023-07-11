@@ -21,7 +21,7 @@
   </td>
   <td style="vertical-align: top;">
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=christalpena" alt="christalpena" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Christalpena&theme=blueberry-duo"/></a>
     </p>
   </td>
 </tr>
