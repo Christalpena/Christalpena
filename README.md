@@ -95,7 +95,7 @@
         </p>
       </td>
       <td align="center">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=christalpena&show_icons=true&locale=en&layout=compact" alt="christalpena" />
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christalpena&layout=compact" />
       </td>
     </tr>
   </table>
