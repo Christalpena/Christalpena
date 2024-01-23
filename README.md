@@ -6,9 +6,9 @@
 
 ## About me
   
-<table align="center">
+<table>
 <tr>
-  <td style="vertical-align: top; width: 50%;">
+  <td>
     <ul>
       <li>🔭 Web developer</li>
       <li>🌱 I’m currently learning React</li>
@@ -18,11 +18,6 @@
       <li>💬 Always thinking</li>
       <li>⚡ Fun fact: No one does anything for free</li>
     </ul>
-  </td>
-  <td style="vertical-align: top;">
-    <p align="center">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Christalpena"/></a>
-    </p>
   </td>
 </tr>
 </table>
