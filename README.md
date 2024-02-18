@@ -1,13 +1,14 @@
 <div align="center">
-    <h1> 👋 Hi there! i'm Christal 👩‍💻</h1>
+    <h1> H I - T H E R E - I M - C H R I S T A L </h1>
 </div>
-<img src="https://github.com/Christalpena/Christalpena/assets/107286072/d7f9ac69-701d-4efb-867f-e974afd5fa01" width="100%">
+<img src="https://t4.ftcdn.net/jpg/04/34/08/53/360_F_434085394_Z8iB9TJiNwhCWBekHi1BTBURGYfPveeL.jpg" width="100%" height="300px">
 
-
-## About me
-  
-<table>
+## -----
+<table  align="center">
 <tr>
+ <td>
+     A B O U T M E
+ </td>
   <td>
     <ul>
       <li>🔭 Web developer</li>
@@ -19,42 +20,7 @@
       <li>⚡ Fun fact: No one does anything for free</li>
     </ul>
   </td>
-</tr>
-</table>
-
-## It took me a while, but i did it!
-<table>
-    <tbody width="100%">
-        <tr>
-         <td width="50%">
-             <div>    
-             <h3 align="center"><a href="https://github.com/Christalpena/Pizza-Shop">PIZZA SHOP</a></h3>
-             <img height="250px" src="https://user-images.githubusercontent.com/107286072/229268750-a834f4b2-d451-4f08-99b3-69b3cfc268e2.png" alt="christalpena" >
-             <p align="center">This is an online pizza shop, made with python and django, there you can order pizza, beverages and more, in the process you will see the poducts in your shop car and when you done buy them!> </p>
-             </div>  
-         </td>
-         <td width="50%">
-             <div>
-             <h3 align="center"><a href="https://github.com/Christalpena/Adopt-A-Pet">ADOPT A PET</a></h3>
-             <img height="250px" src="https://user-images.githubusercontent.com/107286072/217701592-064977b1-cab0-446e-a445-d877707f2010.png" alt="christalpena" >
-             <p align="center">This is a web page created with python and Djaango, there you will be aable to look for many race of dogs and cats and if you find one that likes you you will can adopt she or he throught a form.
-             </div>  
-         </td>
-        </tr>
-    </tbody>
-</table>
-
-
-<h3 align="left">Connect with me:</h3>
-          <p>
-<a href="https://linkedin.com/in/christal peña perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christal peña perez" height="30" width="40" /></a>
-</p>
- 
- ## 🥰 Languages and Tools
-<div align="center">
-  <table style="border: none;" >
-    <tr>
-      <td align="center">
+    <td align="center">
         <p align="left">
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
@@ -88,16 +54,28 @@
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
           </a>
         </p>
-      </td>
+    </td>
+    <td>T E C H S T A C K</td>
+</tr>
+</table>
+
+## -----
+
+ 
+ ## G I T H U B - S T A C K
+<div align="center">
+  <table style="border: none;" >
+    <tr>
       <td align="center">
         <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christalpena&layout=compact" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Christalpena&show_icons=true&theme=radical" alt="christalpena" />
       </td>
     </tr>
   </table>
 </div>
 
-## ♥️ Github analysis
-<img src="https://github-readme-stats.vercel.app/api?username=Christalpena&show_icons=true&theme=radical" alt="christalpena" />
 
 
 
